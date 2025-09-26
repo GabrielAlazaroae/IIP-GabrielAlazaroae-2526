@@ -1,7 +1,6 @@
 # Introductie in Programmeren
 
-- Academiejaar: 
-- Opleiding: 
-- Klasgroep: 
-- Naam: 
-
+- Academiejaar: 2025-2026
+- Opleiding: Systeem & Netwerkbeheer
+- Klasgroep: 1SN23
+- Naam: Gabriel Alazaroae
