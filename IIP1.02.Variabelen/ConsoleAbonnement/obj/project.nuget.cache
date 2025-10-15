@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/1Md7f5F5xI=",
+  "dgSpecHash": "dMp9HOn5PHI=",
   "success": true,
-  "projectFilePath": "/Users/gabrielalazaroae/Documents/GitHub/IIP-GabrielAlazaroae-2526/IIP1.02.Variabelen/ConsoleAbonnement/ConsoleAbonnement.csproj",
-  "expectedPackageFiles": [
-    "/Users/gabrielalazaroae/.nuget/packages/microsoft.netcore.app.ref/8.0.20/microsoft.netcore.app.ref.8.0.20.nupkg.sha512",
-    "/Users/gabrielalazaroae/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.20/microsoft.aspnetcore.app.ref.8.0.20.nupkg.sha512",
-    "/Users/gabrielalazaroae/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.20/microsoft.netcore.app.host.osx-arm64.8.0.20.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Gabriel\\Documents\\GitHub\\IIP-GabrielAlazaroae-2526\\IIP1.02.Variabelen\\ConsoleAbonnement\\ConsoleAbonnement.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

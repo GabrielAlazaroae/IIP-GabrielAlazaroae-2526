@@ -13,7 +13,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleAbonnement")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< Updated upstream
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0256f03a84b6a67e8e4bf3b5b49309e2d8ef1f7f")]
+>>>>>>> Stashed changes
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleAbonnement")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleAbonnement")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

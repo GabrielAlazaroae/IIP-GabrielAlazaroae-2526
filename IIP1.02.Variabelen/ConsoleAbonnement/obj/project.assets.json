@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/gabrielalazaroae/.nuget/packages/": {}
+    "C:\\Users\\Gabriel\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/gabrielalazaroae/Documents/GitHub/IIP-GabrielAlazaroae-2526/IIP1.02.Variabelen/ConsoleAbonnement/ConsoleAbonnement.csproj",
+      "projectUniqueName": "C:\\Users\\Gabriel\\Documents\\GitHub\\IIP-GabrielAlazaroae-2526\\IIP1.02.Variabelen\\ConsoleAbonnement\\ConsoleAbonnement.csproj",
       "projectName": "ConsoleAbonnement",
-      "projectPath": "/Users/gabrielalazaroae/Documents/GitHub/IIP-GabrielAlazaroae-2526/IIP1.02.Variabelen/ConsoleAbonnement/ConsoleAbonnement.csproj",
-      "packagesPath": "/Users/gabrielalazaroae/.nuget/packages/",
-      "outputPath": "/Users/gabrielalazaroae/Documents/GitHub/IIP-GabrielAlazaroae-2526/IIP1.02.Variabelen/ConsoleAbonnement/obj/",
+      "projectPath": "C:\\Users\\Gabriel\\Documents\\GitHub\\IIP-GabrielAlazaroae-2526\\IIP1.02.Variabelen\\ConsoleAbonnement\\ConsoleAbonnement.csproj",
+      "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Gabriel\\Documents\\GitHub\\IIP-GabrielAlazaroae-2526\\IIP1.02.Variabelen\\ConsoleAbonnement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/gabrielalazaroae/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -43,8 +43,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.300"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -60,26 +59,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[8.0.20, 8.0.20]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.osx-arm64",
-            "version": "[8.0.20, 8.0.20]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[8.0.20, 8.0.20]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.305/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.414/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

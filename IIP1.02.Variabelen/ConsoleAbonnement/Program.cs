@@ -15,7 +15,7 @@ class Program
         Console.Write("- aantal toegeangsbeurten: ");
         int aantal = Convert.ToInt32(Console.ReadLine());
 
-        Console.Write("- Prijs (b.v. 122.5): ");
+        Console.Write("- Prijs (b.v. 122,5): ");
         double prijs = Convert.ToDouble(Console.ReadLine());
 
         Console.Write("- badkledij inbegrepen (typ true of false): ");
@@ -55,4 +55,3 @@ class Program
         Console.ReadKey();
     }
 }
-
