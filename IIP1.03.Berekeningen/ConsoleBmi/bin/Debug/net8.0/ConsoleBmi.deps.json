@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ConsoleBmi/1.0.0": {
+        "runtime": {
+          "ConsoleBmi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleBmi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
