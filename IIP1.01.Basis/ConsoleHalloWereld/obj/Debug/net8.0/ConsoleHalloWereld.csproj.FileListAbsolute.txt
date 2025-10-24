@@ -1,0 +1,15 @@
+C:\Users\gabia\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.01.Basis\ConsoleHalloWereld\bin\Debug\net8.0\ConsoleHalloWereld.exe
+C:\Users\gabia\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.01.Basis\ConsoleHalloWereld\bin\Debug\net8.0\ConsoleHalloWereld.deps.json
+C:\Users\gabia\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.01.Basis\ConsoleHalloWereld\bin\Debug\net8.0\ConsoleHalloWereld.runtimeconfig.json
+C:\Users\gabia\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.01.Basis\ConsoleHalloWereld\bin\Debug\net8.0\ConsoleHalloWereld.dll
+C:\Users\gabia\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.01.Basis\ConsoleHalloWereld\bin\Debug\net8.0\ConsoleHalloWereld.pdb
+C:\Users\gabia\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.01.Basis\ConsoleHalloWereld\obj\Debug\net8.0\ConsoleHalloWereld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabia\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.01.Basis\ConsoleHalloWereld\obj\Debug\net8.0\ConsoleHalloWereld.AssemblyInfoInputs.cache
+C:\Users\gabia\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.01.Basis\ConsoleHalloWereld\obj\Debug\net8.0\ConsoleHalloWereld.AssemblyInfo.cs
+C:\Users\gabia\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.01.Basis\ConsoleHalloWereld\obj\Debug\net8.0\ConsoleHalloWereld.csproj.CoreCompileInputs.cache
+C:\Users\gabia\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.01.Basis\ConsoleHalloWereld\obj\Debug\net8.0\ConsoleHalloWereld.sourcelink.json
+C:\Users\gabia\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.01.Basis\ConsoleHalloWereld\obj\Debug\net8.0\ConsoleHalloWereld.dll
+C:\Users\gabia\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.01.Basis\ConsoleHalloWereld\obj\Debug\net8.0\refint\ConsoleHalloWereld.dll
+C:\Users\gabia\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.01.Basis\ConsoleHalloWereld\obj\Debug\net8.0\ConsoleHalloWereld.pdb
+C:\Users\gabia\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.01.Basis\ConsoleHalloWereld\obj\Debug\net8.0\ConsoleHalloWereld.genruntimeconfig.cache
+C:\Users\gabia\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.01.Basis\ConsoleHalloWereld\obj\Debug\net8.0\ref\ConsoleHalloWereld.dll

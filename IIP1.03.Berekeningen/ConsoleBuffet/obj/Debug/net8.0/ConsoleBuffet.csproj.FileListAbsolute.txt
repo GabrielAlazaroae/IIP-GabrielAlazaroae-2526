@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.03.Berekeningen\ConsoleBuffet\bin\Debug\net8.0\ConsoleBuffet.exe
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.03.Berekeningen\ConsoleBuffet\bin\Debug\net8.0\ConsoleBuffet.deps.json
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.03.Berekeningen\ConsoleBuffet\bin\Debug\net8.0\ConsoleBuffet.runtimeconfig.json
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.03.Berekeningen\ConsoleBuffet\bin\Debug\net8.0\ConsoleBuffet.dll
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.03.Berekeningen\ConsoleBuffet\bin\Debug\net8.0\ConsoleBuffet.pdb
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.03.Berekeningen\ConsoleBuffet\obj\Debug\net8.0\ConsoleBuffet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.03.Berekeningen\ConsoleBuffet\obj\Debug\net8.0\ConsoleBuffet.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.03.Berekeningen\ConsoleBuffet\obj\Debug\net8.0\ConsoleBuffet.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.03.Berekeningen\ConsoleBuffet\obj\Debug\net8.0\ConsoleBuffet.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.03.Berekeningen\ConsoleBuffet\obj\Debug\net8.0\ConsoleBuffet.sourcelink.json
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.03.Berekeningen\ConsoleBuffet\obj\Debug\net8.0\ConsoleBuffet.dll
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.03.Berekeningen\ConsoleBuffet\obj\Debug\net8.0\refint\ConsoleBuffet.dll
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.03.Berekeningen\ConsoleBuffet\obj\Debug\net8.0\ConsoleBuffet.pdb
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.03.Berekeningen\ConsoleBuffet\obj\Debug\net8.0\ConsoleBuffet.genruntimeconfig.cache
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.03.Berekeningen\ConsoleBuffet\obj\Debug\net8.0\ref\ConsoleBuffet.dll

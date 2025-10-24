@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.03.Berekeningen\ConsoleBri\bin\Debug\net8.0\ConsoleBri.exe
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.03.Berekeningen\ConsoleBri\bin\Debug\net8.0\ConsoleBri.deps.json
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.03.Berekeningen\ConsoleBri\bin\Debug\net8.0\ConsoleBri.runtimeconfig.json
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.03.Berekeningen\ConsoleBri\bin\Debug\net8.0\ConsoleBri.dll
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.03.Berekeningen\ConsoleBri\bin\Debug\net8.0\ConsoleBri.pdb
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.03.Berekeningen\ConsoleBri\obj\Debug\net8.0\ConsoleBri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.03.Berekeningen\ConsoleBri\obj\Debug\net8.0\ConsoleBri.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.03.Berekeningen\ConsoleBri\obj\Debug\net8.0\ConsoleBri.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.03.Berekeningen\ConsoleBri\obj\Debug\net8.0\ConsoleBri.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.03.Berekeningen\ConsoleBri\obj\Debug\net8.0\ConsoleBri.sourcelink.json
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.03.Berekeningen\ConsoleBri\obj\Debug\net8.0\ConsoleBri.dll
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.03.Berekeningen\ConsoleBri\obj\Debug\net8.0\refint\ConsoleBri.dll
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.03.Berekeningen\ConsoleBri\obj\Debug\net8.0\ConsoleBri.pdb
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.03.Berekeningen\ConsoleBri\obj\Debug\net8.0\ConsoleBri.genruntimeconfig.cache
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.03.Berekeningen\ConsoleBri\obj\Debug\net8.0\ref\ConsoleBri.dll

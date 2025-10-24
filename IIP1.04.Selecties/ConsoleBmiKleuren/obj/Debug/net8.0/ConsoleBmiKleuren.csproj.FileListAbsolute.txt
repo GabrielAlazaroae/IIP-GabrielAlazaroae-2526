@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.04.Selecties\ConsoleBmiKleuren\bin\Debug\net8.0\ConsoleBmiKleuren.exe
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.04.Selecties\ConsoleBmiKleuren\bin\Debug\net8.0\ConsoleBmiKleuren.deps.json
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.04.Selecties\ConsoleBmiKleuren\bin\Debug\net8.0\ConsoleBmiKleuren.runtimeconfig.json
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.04.Selecties\ConsoleBmiKleuren\bin\Debug\net8.0\ConsoleBmiKleuren.dll
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.04.Selecties\ConsoleBmiKleuren\bin\Debug\net8.0\ConsoleBmiKleuren.pdb
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.04.Selecties\ConsoleBmiKleuren\obj\Debug\net8.0\ConsoleBmiKleuren.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.04.Selecties\ConsoleBmiKleuren\obj\Debug\net8.0\ConsoleBmiKleuren.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.04.Selecties\ConsoleBmiKleuren\obj\Debug\net8.0\ConsoleBmiKleuren.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.04.Selecties\ConsoleBmiKleuren\obj\Debug\net8.0\ConsoleBmiKleuren.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.04.Selecties\ConsoleBmiKleuren\obj\Debug\net8.0\ConsoleBmiKleuren.sourcelink.json
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.04.Selecties\ConsoleBmiKleuren\obj\Debug\net8.0\ConsoleBmiKleuren.dll
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.04.Selecties\ConsoleBmiKleuren\obj\Debug\net8.0\refint\ConsoleBmiKleuren.dll
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.04.Selecties\ConsoleBmiKleuren\obj\Debug\net8.0\ConsoleBmiKleuren.pdb
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.04.Selecties\ConsoleBmiKleuren\obj\Debug\net8.0\ConsoleBmiKleuren.genruntimeconfig.cache
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.04.Selecties\ConsoleBmiKleuren\obj\Debug\net8.0\ref\ConsoleBmiKleuren.dll

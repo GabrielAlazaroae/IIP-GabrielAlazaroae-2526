@@ -1,0 +1,15 @@
+C:\Users\gabia\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.01.Basis\ConsoleGangsterName\bin\Debug\net8.0\ConsoleGangsterName.exe
+C:\Users\gabia\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.01.Basis\ConsoleGangsterName\bin\Debug\net8.0\ConsoleGangsterName.deps.json
+C:\Users\gabia\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.01.Basis\ConsoleGangsterName\bin\Debug\net8.0\ConsoleGangsterName.runtimeconfig.json
+C:\Users\gabia\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.01.Basis\ConsoleGangsterName\bin\Debug\net8.0\ConsoleGangsterName.dll
+C:\Users\gabia\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.01.Basis\ConsoleGangsterName\bin\Debug\net8.0\ConsoleGangsterName.pdb
+C:\Users\gabia\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.01.Basis\ConsoleGangsterName\obj\Debug\net8.0\ConsoleGangsterName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabia\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.01.Basis\ConsoleGangsterName\obj\Debug\net8.0\ConsoleGangsterName.AssemblyInfoInputs.cache
+C:\Users\gabia\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.01.Basis\ConsoleGangsterName\obj\Debug\net8.0\ConsoleGangsterName.AssemblyInfo.cs
+C:\Users\gabia\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.01.Basis\ConsoleGangsterName\obj\Debug\net8.0\ConsoleGangsterName.csproj.CoreCompileInputs.cache
+C:\Users\gabia\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.01.Basis\ConsoleGangsterName\obj\Debug\net8.0\ConsoleGangsterName.sourcelink.json
+C:\Users\gabia\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.01.Basis\ConsoleGangsterName\obj\Debug\net8.0\ConsoleGangsterName.dll
+C:\Users\gabia\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.01.Basis\ConsoleGangsterName\obj\Debug\net8.0\refint\ConsoleGangsterName.dll
+C:\Users\gabia\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.01.Basis\ConsoleGangsterName\obj\Debug\net8.0\ConsoleGangsterName.pdb
+C:\Users\gabia\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.01.Basis\ConsoleGangsterName\obj\Debug\net8.0\ConsoleGangsterName.genruntimeconfig.cache
+C:\Users\gabia\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.01.Basis\ConsoleGangsterName\obj\Debug\net8.0\ref\ConsoleGangsterName.dll
