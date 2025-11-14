@@ -1,0 +1,5 @@
+C:\Users\gabia\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.Examen\ConsoleReisBureau\obj\Debug\net8.0\ConsoleReisbureau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabia\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.Examen\ConsoleReisBureau\obj\Debug\net8.0\ConsoleReisbureau.AssemblyInfoInputs.cache
+C:\Users\gabia\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.Examen\ConsoleReisBureau\obj\Debug\net8.0\ConsoleReisbureau.AssemblyInfo.cs
+C:\Users\gabia\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.Examen\ConsoleReisBureau\obj\Debug\net8.0\ConsoleReisbureau.csproj.CoreCompileInputs.cache
+C:\Users\gabia\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.Examen\ConsoleReisBureau\obj\Debug\net8.0\ConsoleReisbureau.sourcelink.json
