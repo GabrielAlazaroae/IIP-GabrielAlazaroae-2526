@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleReisbureau")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1c0e004b87f14f2ee965acfadc52141ffc7e7ba")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc9b592edb44a3235096408f654d2c35de85ffdb")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleReisbureau")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleReisbureau")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

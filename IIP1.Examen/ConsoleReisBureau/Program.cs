@@ -13,7 +13,8 @@ class Program
 		const int leeftijdsgrens= 16;
 		int aantalKinderen = 0;
 		int aantalVolwassenen = 0;
-		int totalePrijs = 0;
+		double totalePrijs = 0;
+		double totaalBedrag = 0;
 		char keuze;
 		
 		do
@@ -43,7 +44,7 @@ Welkom bij de Reisbureau Ibiza
 						Console.Write($"Leeftijd persoon {i}: ");
 						int leeftijd = Convert.ToInt32(Console.ReadLine());
 					
-						if (leeftijds < leeftijdsgrens)
+						if (leeftijd < leeftijdsgrens)
 						{
 							aantalKinderen++;
 						}
@@ -53,7 +54,7 @@ Welkom bij de Reisbureau Ibiza
 						}
 					}
 					
-					totalePrijs = (aantalKinderen * PrijsKind) + (aantalVolwassenen * PrijsVolwassene);
+					totalePrijs = (double)(aantalKinderen * PrijsKind) + (aantalVolwassenen * PrijsVolwassene);
 					
                     Console.WriteLine(@$"
 Er werden {aantalVolwassenen} volwassenen en {aantalKinderen} kinderen
@@ -90,7 +91,7 @@ totale prijs: {totalePrijs:F2}
 						string betalingsMethode = Convert.ToString(Console.ReadLine());
 
 						double toeslag = 0;
-						double totaalBedrag = totalePrijs;
+						totaalBedrag = totalePrijs;
 						
 						if (betalingsMethode == "krediet")
 						{
@@ -107,6 +108,7 @@ Bedankt voor het gebruik van Reisbureau Ibiza");
 				default:
 					Console.WriteLine("ONGELDIGE KEUZE");
 					break;
+			}
 					
 		} while (keuze != 'Q');
 				
