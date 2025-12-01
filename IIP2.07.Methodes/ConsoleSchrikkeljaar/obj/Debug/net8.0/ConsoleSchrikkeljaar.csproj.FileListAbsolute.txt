@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.07.Methodes\ConsoleSchrikkeljaar\bin\Debug\net8.0\ConsoleSchrikkeljaar.exe
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.07.Methodes\ConsoleSchrikkeljaar\bin\Debug\net8.0\ConsoleSchrikkeljaar.deps.json
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.07.Methodes\ConsoleSchrikkeljaar\bin\Debug\net8.0\ConsoleSchrikkeljaar.runtimeconfig.json
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.07.Methodes\ConsoleSchrikkeljaar\bin\Debug\net8.0\ConsoleSchrikkeljaar.dll
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.07.Methodes\ConsoleSchrikkeljaar\bin\Debug\net8.0\ConsoleSchrikkeljaar.pdb
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.07.Methodes\ConsoleSchrikkeljaar\obj\Debug\net8.0\ConsoleSchrikkeljaar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.07.Methodes\ConsoleSchrikkeljaar\obj\Debug\net8.0\ConsoleSchrikkeljaar.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.07.Methodes\ConsoleSchrikkeljaar\obj\Debug\net8.0\ConsoleSchrikkeljaar.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.07.Methodes\ConsoleSchrikkeljaar\obj\Debug\net8.0\ConsoleSchrikkeljaar.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.07.Methodes\ConsoleSchrikkeljaar\obj\Debug\net8.0\ConsoleSchrikkeljaar.sourcelink.json
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.07.Methodes\ConsoleSchrikkeljaar\obj\Debug\net8.0\ConsoleSchrikkeljaar.dll
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.07.Methodes\ConsoleSchrikkeljaar\obj\Debug\net8.0\refint\ConsoleSchrikkeljaar.dll
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.07.Methodes\ConsoleSchrikkeljaar\obj\Debug\net8.0\ConsoleSchrikkeljaar.pdb
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.07.Methodes\ConsoleSchrikkeljaar\obj\Debug\net8.0\ConsoleSchrikkeljaar.genruntimeconfig.cache
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.07.Methodes\ConsoleSchrikkeljaar\obj\Debug\net8.0\ref\ConsoleSchrikkeljaar.dll
