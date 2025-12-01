@@ -1,0 +1,15 @@
+C:\Users\gabia\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.Examen\ConsoleReisBureau\obj\Debug\net8.0\ConsoleReisbureau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabia\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.Examen\ConsoleReisBureau\obj\Debug\net8.0\ConsoleReisbureau.AssemblyInfoInputs.cache
+C:\Users\gabia\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.Examen\ConsoleReisBureau\obj\Debug\net8.0\ConsoleReisbureau.AssemblyInfo.cs
+C:\Users\gabia\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.Examen\ConsoleReisBureau\obj\Debug\net8.0\ConsoleReisbureau.csproj.CoreCompileInputs.cache
+C:\Users\gabia\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.Examen\ConsoleReisBureau\obj\Debug\net8.0\ConsoleReisbureau.sourcelink.json
+C:\Users\gabia\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.Examen\ConsoleReisBureau\bin\Debug\net8.0\ConsoleReisbureau.exe
+C:\Users\gabia\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.Examen\ConsoleReisBureau\bin\Debug\net8.0\ConsoleReisbureau.deps.json
+C:\Users\gabia\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.Examen\ConsoleReisBureau\bin\Debug\net8.0\ConsoleReisbureau.runtimeconfig.json
+C:\Users\gabia\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.Examen\ConsoleReisBureau\bin\Debug\net8.0\ConsoleReisbureau.dll
+C:\Users\gabia\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.Examen\ConsoleReisBureau\bin\Debug\net8.0\ConsoleReisbureau.pdb
+C:\Users\gabia\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.Examen\ConsoleReisBureau\obj\Debug\net8.0\ConsoleReisbureau.dll
+C:\Users\gabia\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.Examen\ConsoleReisBureau\obj\Debug\net8.0\refint\ConsoleReisbureau.dll
+C:\Users\gabia\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.Examen\ConsoleReisBureau\obj\Debug\net8.0\ConsoleReisbureau.pdb
+C:\Users\gabia\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.Examen\ConsoleReisBureau\obj\Debug\net8.0\ConsoleReisbureau.genruntimeconfig.cache
+C:\Users\gabia\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP1.Examen\ConsoleReisBureau\obj\Debug\net8.0\ref\ConsoleReisbureau.dll
