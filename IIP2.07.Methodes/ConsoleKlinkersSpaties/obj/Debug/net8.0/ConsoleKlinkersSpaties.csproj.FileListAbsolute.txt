@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.07.Methodes\ConsoleKlinkersSpaties\bin\Debug\net8.0\ConsoleKlinkersSpaties.exe
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.07.Methodes\ConsoleKlinkersSpaties\bin\Debug\net8.0\ConsoleKlinkersSpaties.deps.json
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.07.Methodes\ConsoleKlinkersSpaties\bin\Debug\net8.0\ConsoleKlinkersSpaties.runtimeconfig.json
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.07.Methodes\ConsoleKlinkersSpaties\bin\Debug\net8.0\ConsoleKlinkersSpaties.dll
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.07.Methodes\ConsoleKlinkersSpaties\bin\Debug\net8.0\ConsoleKlinkersSpaties.pdb
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.07.Methodes\ConsoleKlinkersSpaties\obj\Debug\net8.0\ConsoleKlinkersSpaties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.07.Methodes\ConsoleKlinkersSpaties\obj\Debug\net8.0\ConsoleKlinkersSpaties.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.07.Methodes\ConsoleKlinkersSpaties\obj\Debug\net8.0\ConsoleKlinkersSpaties.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.07.Methodes\ConsoleKlinkersSpaties\obj\Debug\net8.0\ConsoleKlinkersSpaties.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.07.Methodes\ConsoleKlinkersSpaties\obj\Debug\net8.0\ConsoleKlinkersSpaties.sourcelink.json
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.07.Methodes\ConsoleKlinkersSpaties\obj\Debug\net8.0\ConsoleKlinkersSpaties.dll
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.07.Methodes\ConsoleKlinkersSpaties\obj\Debug\net8.0\refint\ConsoleKlinkersSpaties.dll
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.07.Methodes\ConsoleKlinkersSpaties\obj\Debug\net8.0\ConsoleKlinkersSpaties.pdb
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.07.Methodes\ConsoleKlinkersSpaties\obj\Debug\net8.0\ConsoleKlinkersSpaties.genruntimeconfig.cache
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.07.Methodes\ConsoleKlinkersSpaties\obj\Debug\net8.0\ref\ConsoleKlinkersSpaties.dll
