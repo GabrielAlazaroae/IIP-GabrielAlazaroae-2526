@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.08.Arrays\ConsoleNamenZoeken\bin\Debug\net8.0\ConsoleNamenZoeken.exe
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.08.Arrays\ConsoleNamenZoeken\bin\Debug\net8.0\ConsoleNamenZoeken.deps.json
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.08.Arrays\ConsoleNamenZoeken\bin\Debug\net8.0\ConsoleNamenZoeken.runtimeconfig.json
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.08.Arrays\ConsoleNamenZoeken\bin\Debug\net8.0\ConsoleNamenZoeken.dll
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.08.Arrays\ConsoleNamenZoeken\bin\Debug\net8.0\ConsoleNamenZoeken.pdb
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.08.Arrays\ConsoleNamenZoeken\obj\Debug\net8.0\ConsoleNamenZoeken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.08.Arrays\ConsoleNamenZoeken\obj\Debug\net8.0\ConsoleNamenZoeken.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.08.Arrays\ConsoleNamenZoeken\obj\Debug\net8.0\ConsoleNamenZoeken.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.08.Arrays\ConsoleNamenZoeken\obj\Debug\net8.0\ConsoleNamenZoeken.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.08.Arrays\ConsoleNamenZoeken\obj\Debug\net8.0\ConsoleNamenZoeken.sourcelink.json
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.08.Arrays\ConsoleNamenZoeken\obj\Debug\net8.0\ConsoleNamenZoeken.dll
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.08.Arrays\ConsoleNamenZoeken\obj\Debug\net8.0\refint\ConsoleNamenZoeken.dll
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.08.Arrays\ConsoleNamenZoeken\obj\Debug\net8.0\ConsoleNamenZoeken.pdb
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.08.Arrays\ConsoleNamenZoeken\obj\Debug\net8.0\ConsoleNamenZoeken.genruntimeconfig.cache
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.08.Arrays\ConsoleNamenZoeken\obj\Debug\net8.0\ref\ConsoleNamenZoeken.dll

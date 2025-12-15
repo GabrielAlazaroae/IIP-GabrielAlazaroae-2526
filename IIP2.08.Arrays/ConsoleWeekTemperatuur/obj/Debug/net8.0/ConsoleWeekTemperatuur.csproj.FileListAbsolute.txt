@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.08.Arrays\ConsoleWeekTemperatuur\obj\Debug\net8.0\ConsoleWeekTemperatuur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.08.Arrays\ConsoleWeekTemperatuur\obj\Debug\net8.0\ConsoleWeekTemperatuur.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.08.Arrays\ConsoleWeekTemperatuur\obj\Debug\net8.0\ConsoleWeekTemperatuur.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.08.Arrays\ConsoleWeekTemperatuur\obj\Debug\net8.0\ConsoleWeekTemperatuur.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.08.Arrays\ConsoleWeekTemperatuur\obj\Debug\net8.0\ConsoleWeekTemperatuur.sourcelink.json
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.08.Arrays\ConsoleWeekTemperatuur\bin\Debug\net8.0\ConsoleWeekTemperatuur.exe
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.08.Arrays\ConsoleWeekTemperatuur\bin\Debug\net8.0\ConsoleWeekTemperatuur.deps.json
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.08.Arrays\ConsoleWeekTemperatuur\bin\Debug\net8.0\ConsoleWeekTemperatuur.runtimeconfig.json
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.08.Arrays\ConsoleWeekTemperatuur\bin\Debug\net8.0\ConsoleWeekTemperatuur.dll
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.08.Arrays\ConsoleWeekTemperatuur\bin\Debug\net8.0\ConsoleWeekTemperatuur.pdb
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.08.Arrays\ConsoleWeekTemperatuur\obj\Debug\net8.0\ConsoleWeekTemperatuur.dll
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.08.Arrays\ConsoleWeekTemperatuur\obj\Debug\net8.0\refint\ConsoleWeekTemperatuur.dll
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.08.Arrays\ConsoleWeekTemperatuur\obj\Debug\net8.0\ConsoleWeekTemperatuur.pdb
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.08.Arrays\ConsoleWeekTemperatuur\obj\Debug\net8.0\ConsoleWeekTemperatuur.genruntimeconfig.cache
+C:\Users\Gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.08.Arrays\ConsoleWeekTemperatuur\obj\Debug\net8.0\ref\ConsoleWeekTemperatuur.dll
