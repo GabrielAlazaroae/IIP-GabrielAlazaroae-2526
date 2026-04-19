@@ -1,0 +1,254 @@
+using System;
+
+namespace ConsoleWeerstation
+{
+    class Program
+    {
+        // METHODE 1: Lees temperaturen in voor 7 dagen
+        static double[] LeesTemperaturen()
+        {
+            double[] temperaturen = new double[7];
+            string[] dagen = { "Maandag", "Dinsdag", "Woensdag", "Donderdag", "Vrijdag", "Zaterdag", "Zondag" };
+            
+            Console.WriteLine("\n=== TEMPERATUREN INVOEREN ===");
+            for (int i = 0; i < 7; i++)
+            {
+                Console.Write($"Temperatuur voor {dagen[i]}: ");
+                temperaturen[i] = Convert.ToDouble(Console.ReadLine());
+            }
+            
+            return temperaturen;
+        }
+        
+        // METHODE 2: Bereken gemiddelde temperatuur
+        static double BerekenGemiddelde(double[] temperaturen)
+        {
+            double som = 0;
+            for (int i = 0; i < temperaturen.Length; i++)
+            {
+                som += temperaturen[i];
+            }
+            return som / temperaturen.Length;
+        }
+        
+        // METHODE 3: Toon hoogste temperatuur en welke dag
+        static void ToonHoogsteTemperatuur(double[] temperaturen)
+        {
+            string[] dagen = { "Maandag", "Dinsdag", "Woensdag", "Donderdag", "Vrijdag", "Zaterdag", "Zondag" };
+            
+            double hoogste = temperaturen[0];
+            int dagIndex = 0;
+            
+            for (int i = 1; i < temperaturen.Length; i++)
+            {
+                if (temperaturen[i] > hoogste)
+                {
+                    hoogste = temperaturen[i];
+                    dagIndex = i;
+                }
+            }
+            
+            Console.WriteLine($"\nHoogste temperatuur: {hoogste:F1}°C op {dagen[dagIndex]}");
+        }
+        
+        // METHODE 4: Toon laagste temperatuur en welke dag
+        static void ToonLaagsteTemperatuur(double[] temperaturen)
+        {
+            string[] dagen = { "Maandag", "Dinsdag", "Woensdag", "Donderdag", "Vrijdag", "Zaterdag", "Zondag" };
+            
+            double laagste = temperaturen[0];
+            int dagIndex = 0;
+            
+            for (int i = 1; i < temperaturen.Length; i++)
+            {
+                if (temperaturen[i] < laagste)
+                {
+                    laagste = temperaturen[i];
+                    dagIndex = i;
+                }
+            }
+            
+            Console.WriteLine($"\nLaagste temperatuur: {laagste:F1}°C op {dagen[dagIndex]}");
+        }
+        
+        // METHODE 5: Tel aantal dagen boven een drempel
+        static int TelDagenBovenDrempel(double[] temperaturen, double drempel)
+        {
+            int aantal = 0;
+            for (int i = 0; i < temperaturen.Length; i++)
+            {
+                if (temperaturen[i] > drempel)
+                {
+                    aantal++;
+                }
+            }
+            return aantal;
+        }
+        
+        // METHODE 6: Tel aantal dagen onder een drempel
+        static int TelDagenOnderDrempel(double[] temperaturen, double drempel)
+        {
+            int aantal = 0;
+            for (int i = 0; i < temperaturen.Length; i++)
+            {
+                if (temperaturen[i] < drempel)
+                {
+                    aantal++;
+                }
+            }
+            return aantal;
+        }
+        
+        // METHODE 7: Toon alle temperaturen
+        static void ToonAlleTemperaturen(double[] temperaturen)
+        {
+            string[] dagen = { "Maandag", "Dinsdag", "Woensdag", "Donderdag", "Vrijdag", "Zaterdag", "Zondag" };
+            
+            Console.WriteLine("\n=== OVERZICHT TEMPERATUREN ===");
+            for (int i = 0; i < temperaturen.Length; i++)
+            {
+                Console.WriteLine($"{dagen[i],-12}: {temperaturen[i]:F1}°C");
+            }
+        }
+        
+        // METHODE 8: Toon menu
+        static void ToonMenu()
+        {
+            Console.WriteLine("\n========================================");
+            Console.WriteLine("       WEERSTATION MENU");
+            Console.WriteLine("========================================");
+            Console.WriteLine("  1. Nieuwe temperaturen invoeren");
+            Console.WriteLine("  2. Toon alle temperaturen");
+            Console.WriteLine("  3. Toon gemiddelde temperatuur");
+            Console.WriteLine("  4. Toon hoogste temperatuur");
+            Console.WriteLine("  5. Toon laagste temperatuur");
+            Console.WriteLine("  6. Tel dagen boven drempel");
+            Console.WriteLine("  7. Tel dagen onder drempel");
+            Console.WriteLine("  0. Afsluiten");
+            Console.WriteLine("========================================");
+            Console.Write("  Keuze: ");
+        }
+        
+        // MAIN METHODE
+        static void Main(string[] args)
+        {
+            double[] temperaturen = null;
+            int keuze;
+            
+            Console.WriteLine("========================================");
+            Console.WriteLine("   WELKOM BIJ HET WEERSTATION!");
+            Console.WriteLine("========================================");
+            
+            do
+            {
+                ToonMenu();
+                keuze = Convert.ToInt32(Console.ReadLine());
+                
+                switch (keuze)
+                {
+                    case 1:
+                        // Nieuwe temperaturen invoeren
+                        temperaturen = LeesTemperaturen();
+                        Console.WriteLine("\nTemperaturen succesvol ingevoerd!");
+                        break;
+                        
+                    case 2:
+                        // Toon alle temperaturen
+                        if (temperaturen != null)
+                        {
+                            ToonAlleTemperaturen(temperaturen);
+                        }
+                        else
+                        {
+                            Console.WriteLine("\nFout: Eerst temperaturen invoeren!");
+                        }
+                        break;
+                        
+                    case 3:
+                        // Toon gemiddelde
+                        if (temperaturen != null)
+                        {
+                            double gemiddelde = BerekenGemiddelde(temperaturen);
+                            Console.WriteLine($"\nGemiddelde temperatuur: {gemiddelde:F1}°C");
+                        }
+                        else
+                        {
+                            Console.WriteLine("\nFout: Eerst temperaturen invoeren!");
+                        }
+                        break;
+                        
+                    case 4:
+                        // Toon hoogste temperatuur
+                        if (temperaturen != null)
+                        {
+                            ToonHoogsteTemperatuur(temperaturen);
+                        }
+                        else
+                        {
+                            Console.WriteLine("\nFout: Eerst temperaturen invoeren!");
+                        }
+                        break;
+                        
+                    case 5:
+                        // Toon laagste temperatuur
+                        if (temperaturen != null)
+                        {
+                            ToonLaagsteTemperatuur(temperaturen);
+                        }
+                        else
+                        {
+                            Console.WriteLine("\nFout: Eerst temperaturen invoeren!");
+                        }
+                        break;
+                        
+                    case 6:
+                        // Tel dagen boven drempel
+                        if (temperaturen != null)
+                        {
+                            Console.Write("\nGeef drempelwaarde: ");
+                            double drempel = Convert.ToDouble(Console.ReadLine());
+                            int aantal = TelDagenBovenDrempel(temperaturen, drempel);
+                            Console.WriteLine($"Aantal dagen boven {drempel}°C: {aantal}");
+                        }
+                        else
+                        {
+                            Console.WriteLine("\nFout: Eerst temperaturen invoeren!");
+                        }
+                        break;
+                        
+                    case 7:
+                        // Tel dagen onder drempel
+                        if (temperaturen != null)
+                        {
+                            Console.Write("\nGeef drempelwaarde: ");
+                            double drempel = Convert.ToDouble(Console.ReadLine());
+                            int aantal = TelDagenOnderDrempel(temperaturen, drempel);
+                            Console.WriteLine($"Aantal dagen onder {drempel}°C: {aantal}");
+                        }
+                        else
+                        {
+                            Console.WriteLine("\nFout: Eerst temperaturen invoeren!");
+                        }
+                        break;
+                        
+                    case 0:
+                        // Afsluiten
+                        Console.WriteLine("\nBedankt en tot ziens!");
+                        break;
+                        
+                    default:
+                        Console.WriteLine("\nOngeldige keuze! Kies tussen 0 en 7.");
+                        break;
+                }
+                
+                if (keuze != 0)
+                {
+                    Console.Write("\nDruk op een toets om verder te gaan...");
+                    Console.ReadKey();
+                    Console.Clear();
+                }
+                
+            } while (keuze != 0);
+        }
+    }
+}
