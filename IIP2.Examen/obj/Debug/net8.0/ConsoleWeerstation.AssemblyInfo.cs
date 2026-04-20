@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleWeerstation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f44afe474724b884db8954174d61c7c9e278e37")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+538cb9a972a5db1d3a1a89978c7cf9463255e461")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleWeerstation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleWeerstation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
