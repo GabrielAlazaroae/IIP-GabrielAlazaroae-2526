@@ -1,0 +1,84 @@
+﻿<Window x:Class="WpfFietswinkel.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="WPF Fietswinkel"
+        Height="400" Width="600"
+        Background="DarkKhaki">
+
+    <Canvas>
+        <Image x:Name="imgFiets"
+               Source="/Images/fiets1.jpg" 
+               Height="200" 
+               Width="307"
+               Canvas.Left="20"
+               Canvas.Top="30"/>
+
+        <Button x:Name="btnModel1" 
+                Content="model 1" 
+                Width="70" 
+                Canvas.Left="60"
+                Canvas.Top="260"
+                IsEnabled="False"
+                Click="btnModel1_Click"/>
+
+        <Button x:Name="btnModel2" 
+                Content="model 2" 
+                Width="70"
+                Canvas.Left="140"
+                Canvas.Top="260"
+                Click="btnModel2_Click"/>
+
+        <Button x:Name="btnModel3" 
+                Content="model 3" 
+                Width="70"
+                Canvas.Left="220"
+                Canvas.Top="260"
+                Click="btnModel3_Click"/>
+
+        <TextBlock
+                   FontSize="16"
+                   Canvas.Left="350"
+                   Canvas.Top="30"><Run Text="Selecteer accessoires"/><Run Language="fr-fr" Text=":"/></TextBlock>
+
+        <ListBox x:Name="lstAccessoires"
+                 Height="156"
+                 Width="200"
+                 Canvas.Left="350"
+                 Canvas.Top="60"
+                 SelectionMode="Multiple"
+                 SelectionChanged="lstAccessoires_SelectionChanged" HorizontalAlignment="Center" VerticalAlignment="Top">
+            <ListBoxItem>Fietstas: € 25</ListBoxItem>
+            <ListBoxItem>Pompe: € 10</ListBoxItem>
+            <ListBoxItem>Batterijlamp: € 108</ListBoxItem>
+        </ListBox>
+
+        <TextBlock x:Name="txtAantalAccessoires"
+                   Text="0 accessoires geselecteerd"
+                   FontSize="10"
+                   FontStyle="Italic"
+                   Foreground="Black"
+                   Canvas.Left="350"
+                   Canvas.Top="249" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+
+        <TextBlock Text="Totale prijs:"
+                   FontSize="16"
+                   Canvas.Left="350"
+                   Canvas.Top="293" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+
+        <TextBlock x:Name="txtTotalePrijs"
+                   Text="€ 1.339"
+                   FontSize="16"
+                   FontWeight="Bold"
+                   Canvas.Left="514"
+                   Canvas.Top="293" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+
+        <Button x:Name="btnHerbereken"
+                Content="herbereken"
+                Width="100"
+                Background="LightBlue"
+                Canvas.Left="469"
+                Canvas.Top="336"
+                Click="btnHerbereken_Click" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+
+    </Canvas>
+</Window>
