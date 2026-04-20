@@ -1,0 +1,15 @@
+C:\Users\gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.Examen\bin\Debug\net8.0\ConsoleWeerstation.exe
+C:\Users\gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.Examen\bin\Debug\net8.0\ConsoleWeerstation.deps.json
+C:\Users\gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.Examen\bin\Debug\net8.0\ConsoleWeerstation.runtimeconfig.json
+C:\Users\gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.Examen\bin\Debug\net8.0\ConsoleWeerstation.dll
+C:\Users\gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.Examen\bin\Debug\net8.0\ConsoleWeerstation.pdb
+C:\Users\gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.Examen\obj\Debug\net8.0\ConsoleWeerstation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.Examen\obj\Debug\net8.0\ConsoleWeerstation.AssemblyInfoInputs.cache
+C:\Users\gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.Examen\obj\Debug\net8.0\ConsoleWeerstation.AssemblyInfo.cs
+C:\Users\gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.Examen\obj\Debug\net8.0\ConsoleWeerstation.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.Examen\obj\Debug\net8.0\ConsoleWeerstation.sourcelink.json
+C:\Users\gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.Examen\obj\Debug\net8.0\ConsoleWeerstation.dll
+C:\Users\gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.Examen\obj\Debug\net8.0\refint\ConsoleWeerstation.dll
+C:\Users\gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.Examen\obj\Debug\net8.0\ConsoleWeerstation.pdb
+C:\Users\gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.Examen\obj\Debug\net8.0\ConsoleWeerstation.genruntimeconfig.cache
+C:\Users\gabriel\Documents\GitHub\IIP-GabrielAlazaroae-2526\IIP2.Examen\obj\Debug\net8.0\ref\ConsoleWeerstation.dll
